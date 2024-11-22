@@ -16,4 +16,4 @@ Consultas a serem realizadas:
 - [x] Listar todos os acessórios de um usuário específico (por exemplo, idUsuario = 1).
 - [x] Obter a quantidade de pets por porte (pequeno, médio, grande).
 
-🚀- [ ] aumente o banco, crie novas tabelas, crie novas triggers e procedures e acima de tudo divirta-se ! ❤️👍👩‍💻😁
+- [ ] 🚀 aumente o banco, crie novas tabelas, crie novas triggers e procedures e acima de tudo divirta-se ! ❤️👍👩‍💻😁
