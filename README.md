@@ -10,7 +10,7 @@ Após criar as tabelas, elabore consultas para as seguintes questões:
 
 Consultas a serem realizadas:
 
-[X]- Listar todos os usuários com suas cidades e estados.
+[x] - Listar todos os usuários com suas cidades e estados.
 [x]- Contar o número de pets por tipo (cachorro, gato, etc.).
 [x]- Listar todos os pets ativos para adoção, com detalhes (nome, idade, gênero, tipo, porte, etc.).
 [x]- Listar todos os acessórios de um usuário específico (por exemplo, idUsuario = 1).
